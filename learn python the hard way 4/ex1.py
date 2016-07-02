@@ -1,3 +1,5 @@
+#coding:utf-8
+print "ÖÐÎÄ×Ö·û"
 print "hello world!"
 print "hello again"
 print "i like typing this"
