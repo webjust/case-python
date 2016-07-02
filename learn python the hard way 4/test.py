@@ -1,1 +1,1 @@
-#coding:utf-8
+#coding:utf-8txt_file = open('ex15_sample.txt')print txt_file.read()
