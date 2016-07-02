@@ -1,0 +1,1 @@
+#coding:utf-8'''提示别人raw_input([string])'''age = raw_input("How old are you? ")height = raw_input("How tall are you?")weight = raw_input("How much do you weight?")print "So, you're %r old, %r tall and %r heavy." %(age, height, weight)'''How old are you? 12How tall are you?5.5How much do you weight?89bounsSo, you're '12' old, '5.5' tall and '89bouns' heavy.'''
